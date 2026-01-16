@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: black;
+}
+
+p {
+  font-size: 40px;
+  font-family: 'Squada One';
+  color: var(--text-color);
+}
+
+.landing-text {
+  text-align: center;
+  margin: 0 auto;
+}
